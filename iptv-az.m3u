@@ -1,19 +1,21 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="arb-24" tvg-logo="https://camo.githubusercontent.com/39f85786c0285195ba70f34dc0bc22a975ba927f28590c74738ead115bc8529a/68747470733a2f2f692e696d6775722e636f6d2f6d7476494679712e706e67" group-title="Umumi",ARB 24
-http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="Xeber",APA TV (720p)
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="Xeber" user-agent="ExoPlayer2/2.37",ARB 24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o7/arb24/playlist.m3u8
 #EXTINF:-1 tvg-id="arb-tv" tvg-logo="https://camo.githubusercontent.com/485dee75ce02196d3c6bcae0c7f29cadb52fc2425b5e74ea2a905075354996c4/68747470733a2f2f692e696d6775722e636f6d2f4539374d324f4c2e706e67" group-title="Umumi",ARB 
-http://109.205.166.68/server124/arb/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/arbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="azad-tv" tvg-logo="https://camo.githubusercontent.com/04152b93cdd8ebf91dcb42643a2f7341a8d7c836fed90108c0ca06ce1a07086a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f4154565f253238323031322d682e682e2532392e706e672f34373470782d4154565f253238323031322d682e682e2532392e706e67" group-title="Umumi",Azad Azerbaycan
 https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz
 #EXTINF:-1 tvg-id="aztv-tv" tvg-logo="https://camo.githubusercontent.com/f343363a6ee93a080fa5b271b977583a90dfdf71943be8cecddb317296851d9c/68747470733a2f2f692e696d6775722e636f6d2f736e424d4d65482e706e67" group-title="Umumi",AZTV (HD)
-https://www.tvkaista.net/stream-forwarder/get.php?x=AZTV
+https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-id="baku-tv" tvg-logo="https://camo.githubusercontent.com/3a9595e17021e75181838c68fb2355c4d494500c28c114907961b3646ef7f051/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33622f42616b755f54565f253238323031382532392e706e672f36343070782d42616b755f54565f253238323031382532392e706e67" group-title="Umumi",Baku TV HD
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:-1 tvg-id="cbc-tv" tvg-logo="https://camo.githubusercontent.com/00e531f047c26af68ced97bc0eafe994543e5c9d5852a69fa6440cb09a4d9d71/68747470733a2f2f692e696d6775722e636f6d2f7756543064774f2e706e67" group-title="Umumi",CBC
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-#EXTINF:-1 tvg-id="dunya-tv" tvg-logo="https://camo.githubusercontent.com/afd61a495bdc62cc2558ab5da5ba1753237aa5f20ac1f89a6cbf98dd5b6a1d1f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f617a2f352f35642f442543332542436e79615f54565f253238323031392d682e682e2532392e706e67" group-title="Umumi",Dunya TV
-https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya
 #EXTINF:-1 tvg-id="ictimai-tv" tvg-logo="https://camo.githubusercontent.com/6e5f6bbc1d37bd74431e92b1d37a1982969d30bfe094eb2b1fd56a90d994e8ed/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66662f2543342542306374696d61695f54565f253238323032312d682e682e2532392e7376672f34373070782d2543342542306374696d61695f54565f253238323032312d682e682e2532392e7376672e706e67" group-title="Umumi",İctimai TV (HD)
 http://109.205.166.68/server124/ictimai_tv/index.m3u8
 #EXTINF:-1 tvg-id="kanal-s" tvg-logo="https://camo.githubusercontent.com/2fbc4a69c070605a01437d3e77c0dc64809850346ab6faa4ccfbda23bad80b10/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32372f4b616e616c5f535f253238323032322532392e706e672f36313670782d4b616e616c5f535f253238323032322532392e706e67" group-title="Umumi",Kanal S 
@@ -21,12 +23,18 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=KanalS
 #EXTINF:-1 tvg-id="real-tv" tvg-logo="https://camo.githubusercontent.com/e0d66e9f3ca023f201f4911b8cb0ca2d1344a589c7d4f2954c0397ef7c729837/68747470733a2f2f692e696d6775722e636f6d2f65324b464c30522e706e67" group-title="Umumi",Real TV (HD)
 https://www.tvkaista.net/stream-forwarder/get.php?x=RealTV
 #EXTINF:-1 tvg-id="space-tv" tvg-logo="https://camo.githubusercontent.com/071b85de679d964de6b622d63a3b3765ade1ce46453807ba96d7a8b7c08e35ea/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32342f53706163655f54565f6c6f716f73755f253238323032332d682e682e2532392e706e672f32393670782d53706163655f54565f6c6f716f73755f253238323032332d682e682e2532392e706e67" group-title="Umumi",Space
-http://109.205.166.68/server124/space_tv/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/space/playlist.m3u8
 #EXTINF:-1 tvg-id="xezer-tv" tvg-logo="https://camo.githubusercontent.com/a468a8be71f96b3766daf5ed7f88c246e414afd140185ec1f5b8937e165dc75f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61352f582543392539397a254339253939725f54565f253238323032332532392e706e67" group-title="Umumi",Xezer
 https://www.tvkaista.net/stream-forwarder/get.php?x=Xezer
+#EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/512px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="Umumi",Kəpəz TV (540p) [Not 24/7]
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="Umumi",Alvin TV (360p) [Not 24/7]
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="cbc-sport" tvg-logo="https://camo.githubusercontent.com/a8341a7d4d9c214bcb9971a79a157a1823aea40ab0a0f85361d22db9c27481ca/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f617a2f302f30342f4342435f53706f72745f54565f6c6f716f2e706e67" group-title="Sport",CBC SPORT (HD)
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-id="idman-tv" tvg-logo="https://epgx.site/p/ntv.png" group-title="Sport",İdman TV (HD)
-http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="Sport" user-agent="ExoPlayer2/2.37",Idman
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o7/idman/playlist.m3u8

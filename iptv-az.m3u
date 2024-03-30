@@ -42,3 +42,11 @@ https://edge02.odtv.az/o7/idman/playlist.m3u8
 #EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="Umumi" user-agent="ExoPlayer2/2.37",Medeniyyet HD (1080p)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png" tvg-id="MTVAzerbaijan.az" group-title="Musiqi",MTV Azerbaijan
+https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan
+#EXTINF:-1 tvg-name="VIP HD" tvg-logo="https://tvtolive.com/wp-content/uploads/VIP-TV-tvtolive.com_.jpg" group-title="Musiqi",VIP HD
+https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP
+
+#EXTINF:-1 tvg-name="Xəzər TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png" tvg-id="XezerTV.az" group-title="Umumi",Xəzər TV test
+https://www.tvkaista.net/stream-forwarder/get.php?x=Xezer

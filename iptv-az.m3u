@@ -33,8 +33,10 @@ http://85.132.81.184:8080/arbkepez/live/index.m3u8
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-id="cbc-sport" tvg-logo="https://camo.githubusercontent.com/a8341a7d4d9c214bcb9971a79a157a1823aea40ab0a0f85361d22db9c27481ca/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f617a2f302f30342f4342435f53706f72745f54565f6c6f716f2e706e67" group-title="Sport",CBC SPORT (HD)
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="Sport" user-agent="ExoPlayer2/2.37",Idman
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/idman/playlist.m3u8

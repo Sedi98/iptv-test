@@ -65,6 +65,6 @@ https://edge02.odtv.az/o7/idman/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,kanals test TV
-http://149.255.152.199/kanals.m3u8?user=37076&token=d356866e475fe6dffe8a5a3cdb08ac84&e=1712756299&bands=796.2096.6096&shift=31598386&sid=coder_57
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,kanals test 2 TV
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/kanalstv.m3u8?alt=media&token=deda356d-fd64-4073-81e5-f5ff9680bdcf
 

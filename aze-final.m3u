@@ -71,6 +71,13 @@ https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/kan
 #EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,mtv test2
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/mtvazerbaycan.m3u8?alt=media&token=ee091ce6-c40e-4027-9766-1c59b6c415e6
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,VIP Tv
+#EXTINF:-1 group-title="test" logo="https://camo.githubusercontent.com/b95cfd6dafdbbc6cf841d674363c4eec5f7c95e91ae5fc14a7649cf90b556cc8/68747470733a2f2f7476746f6c6976652e636f6d2f77702d636f6e74656e742f75706c6f6164732f5649502d54562d7476746f6c6976652e636f6d5f2e6a7067" ,VIP Tv
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/vip.m3u8?alt=media&token=f5903a87-5435-456d-bc28-13982574855e
+
+
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt1 (720p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt 2 (720p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 

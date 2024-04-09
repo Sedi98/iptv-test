@@ -78,6 +78,10 @@ https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/vip
 #EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt1 (720p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt 2 (720p)
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt muzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 

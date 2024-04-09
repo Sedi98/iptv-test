@@ -71,3 +71,6 @@ https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/kan
 #EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,mtv test2
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/mtvazerbaycan.m3u8?alt=media&token=ee091ce6-c40e-4027-9766-1c59b6c415e6
 
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,VIP Tv
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/vip.m3u8?alt=media&token=f5903a87-5435-456d-bc28-13982574855e
+

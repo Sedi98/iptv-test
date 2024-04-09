@@ -66,8 +66,8 @@ https://edge02.odtv.az/o7/idman/playlist.m3u8
 
 
 #EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,kanals test 2 TV
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/kanalstv.m3u8?alt=media&token=deda356d-fd64-4073-81e5-f5ff9680bdcf
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/kanalstv.m3u8?alt=media&token=688872c1-dae1-4251-8c7c-f53f71b7be2f
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,haber global
-https://str.yodacdn.net/haberglobal/video.m3u8
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,mtv test2
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/mtvazerbaycan.m3u8?alt=media&token=ee091ce6-c40e-4027-9766-1c59b6c415e6
 

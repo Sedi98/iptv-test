@@ -68,3 +68,6 @@ https://edge02.odtv.az/o7/idman/playlist.m3u8
 #EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,kanals test 2 TV
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/kanalstv.m3u8?alt=media&token=deda356d-fd64-4073-81e5-f5ff9680bdcf
 
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,haber global
+https://str.yodacdn.net/haberglobal/video.m3u8
+

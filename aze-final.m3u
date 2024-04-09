@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1 group="Xeber" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", ARB 24
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/arb-24.m3u8?alt=media&token=c18ae152-eaf5-4a4d-ac90-8e07d71b6826
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+
+#EXTINF:-1 group="Usaq" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", ARB Gunes
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/arb-gunes.m3u8?alt=media&token=c6a1ea01-fbac-418d-a02c-1d883122e0b3
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", Azad Azerbaycan
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/atv-azad.m3u8?alt=media&token=af8cb89f-d9e2-43ce-aa21-44363fcfaf9a
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", Az TV
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/az-tv.m3u8?alt=media&token=2b19bc9e-efc3-4466-aefa-a564f0a44f00
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", CBC Az
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/cbc.m3u8?alt=media&token=07c59eca-519a-48d1-a801-199cdbd24f3f
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", Dunya TV
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/dunya-tv.m3u8?alt=media&token=4fdcd81e-0117-4a58-8bed-bdce7beb2603
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", Ictimai TV
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/ictimai-tv.m3u8?alt=media&token=cba7a680-a692-402a-bd63-370719c879a3
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", Mcj TV
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/mcj-tv-shop.m3u8?alt=media&token=3e98e2d7-0ed8-4ec2-8171-0ba69294044f
+
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", Medeniyyet TV
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/medeniyet-tv.m3u8?alt=media&token=aca249b9-4383-4942-bf53-8a98f9bfcbfc
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", MTV Azerbaycan TV
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/mtv-azerbaycan.m3u8?alt=media&token=36f7fcce-e58c-432e-9f70-2c7fdaa32b3e
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", Real TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", Space TV
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/space-tv.m3u8?alt=media&token=675fd00a-642a-453f-8a23-7ba633250117
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", TMB Azerbaycan
+https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/tmb-azerbaycan.m3u8?alt=media&token=62f569d6-7cac-40c6-a1e3-89aea803d82e
+
+#EXTINF:-1 group="Ulusal" logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png", Xezer TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8

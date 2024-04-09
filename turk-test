@@ -1,7 +1,7 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" ,TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" ,TRT haber
@@ -13,40 +13,40 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="" ,TRT cocuk
 https://ecanlitv3.etvserver.com/trtcocuk.m3u8?tkn=8r5QVL2GwZOk4P1m3UjG2Q&tms=1712692448
 
-#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png" ,TRT Avaz
+#EXTINF:-1 tvg-id="TRTAvaz.tr" group-title="test" tvg-logo="http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png" ,TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="test" tvg-logo="" ,TRT belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" ,Star tv
+#EXTINF:-1 tvg-id="StarTV.tr" group-title="test" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" ,Star tv
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=6b1hh777ciuu&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
-#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" ,Now tv
+#EXTINF:-1 tvg-id="Now.tr" group-title="test" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" ,Now tv
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
 
-#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" ,Now tv 2
+#EXTINF:-1 tvg-id="Now.tr" group-title="test" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" ,Now tv 2
 https://ecanlitv3.etvserver.com/foxtv.m3u8?tkn=xlOjL5yA1WsYdL4XAMpMCA&tms=1712690479
 
-#EXTINF:-1 group-title="test" tvg-logo="" ,TV 8
+#EXTINF:-1 tvg-id="TV8.tr" group-title="test" tvg-logo="" ,TV 8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6b1k0q50h11y&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 group-title="test" tvg-logo="" ,Kanal 7
+#EXTINF:-1 tvg-id="Kanal7.tr" group-title="test" tvg-logo="" ,Kanal 7
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=6b1kbmgrsx7d&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 
-#EXTINF:-1 group-title="test" tvg-logo="" ,Kanal 7 Avrupa
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-id="Kanal7.tr" group-title="test" tvg-logo="" ,Kanal 7 Avrupa
 https://live-b.cf.dmcdn.net/sec2(3xv8Gb20yuNsb_ZyFMYFodtjnGqXst1oxTfSKevw-rUMP4uGl5e586bBR_ZiJPOSZCQtYCPVp18OyZE2U_HJzMnctFhm0C0BT7k68AIhtrg)/dm/3/x8863vn/s/live-1.m3u8
 
-#EXTINF:-1 group-title="test" tvg-logo="" ,Show TV
+#EXTINF:-1 tvg-id="ShowTV.tr" group-title="test" tvg-logo="" ,Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=6b1klctqtrpc&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
 #EXTINF:-1 group-title="test" tvg-logo="" ,CNN Turk tv
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 
-#EXTINF:-1 group-title="test" tvg-logo="" ,ATV Turkiye
+#EXTINF:-1 tvg-id="ATV.tr" group-title="test" tvg-logo="" ,ATV Turkiye
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1712722795&st=5k6rBBQCkXVowEVPoomojw&sid=6b1k673tqld5&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 
-#EXTINF:-1 group-title="test" tvg-logo="" ,Atv Avrupa
+#EXTINF:-1 tvg-id="ATVAvrupa.tr" group-title="test" tvg-logo="" ,ATV Avrupa
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=AWwEqQvP-dSNIjANAJuqow&e=1712725940&SessionID=g4awmi2rmh33shpgq4gztqkx&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
 
 #EXTINF:-1 group-title="test" tvg-logo="" ,A Spor
@@ -58,7 +58,7 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=g1d8zmaHdWbEDgWQwjnJ
 #EXTINF:-1 group-title="test" tvg-logo="" ,ATV 2
 https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1712724332&st=MVxxB-ydC89xB9kq9Q2S4Q&sid=6b1mgh28ey4w&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
 
-#EXTINF:-1 group-title="test" tvg-logo="" ,Kanal D
+#EXTINF:-1 tvg-id="KanalD.tr" group-title="test" tvg-logo="" ,Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=6b1mlts3o2rg&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
 #EXTINF:-1 group-title="test" tvg-logo="" ,Dream Turk

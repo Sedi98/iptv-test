@@ -25,7 +25,7 @@ https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-2
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=odtR8xUoolulgQ_5HeGSKA&e=1712712074
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" ,NOW TV yedek
-https://live.cdn-canlitv.com/foxtv2.m3u8?anahtar=xZL4xm6f_Mhqq29Stc4C0w&sure=1712719268&ip=89.147.214.226
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" ,TV 8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6b1k0q50h11y&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
@@ -126,29 +126,7 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" ,360 TV
 https://tv.ensonhaber.com/tv360/tv360.m3u8
 
-#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
-https://tv.ensonhaber.com/tv360/tv360.m3u8
 
-#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
-https://tv.ensonhaber.com/tv360/tv360.m3u8
-
-#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
-https://tv.ensonhaber.com/tv360/tv360.m3u8
-
-#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
-https://tv.ensonhaber.com/tv360/tv360.m3u8
-
-#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
-https://tv.ensonhaber.com/tv360/tv360.m3u8
-
-#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
-https://tv.ensonhaber.com/tv360/tv360.m3u8
-
-#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
-https://tv.ensonhaber.com/tv360/tv360.m3u8
-
-#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
-https://tv.ensonhaber.com/tv360/tv360.m3u8
 
 
 

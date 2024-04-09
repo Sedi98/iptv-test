@@ -30,7 +30,6 @@ https://edge02.odtv.az/o1/ictimai/playlist.m3u8
 #EXTINF:-1 group-title="Shopping" logo="https://camo.githubusercontent.com/7a7dc06e3af969d7cba80823b4dd77da250f4a3ea3ff8c0d08ff5192783679cd/68747470733a2f2f7476746f6c6976652e636f6d2f77702d636f6e74656e742f75706c6f6164732f4d434a2d54562d53686f702d7476746f6c6976652e636f6d5f2e6a7067", Mcj TV
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/mcj-tv-shop.m3u8?alt=media&token=3e98e2d7-0ed8-4ec2-8171-0ba69294044f
 
-
 #EXTINF:-1 group-title="Umumi" user-agent="ExoPlayer2/2.37" logo="https://camo.githubusercontent.com/ad6aa9a228cecc30ff3ef23688e7f76d64ea5bbaa7b0a740ca6a47a4d7a18bf0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66632f4d254339253939642543392539396e697979254339253939745f54565f6c6f676f2e706e67", Medeniyyet TV
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
@@ -62,9 +61,13 @@ http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/idman/playlist.m3u8
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,kanals test 2 TV
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,kanal S TV
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/kanalstv.m3u8?alt=media&token=688872c1-dae1-4251-8c7c-f53f71b7be2f
 
 #EXTINF:-1 group-title="Musiqi" logo="https://camo.githubusercontent.com/b95cfd6dafdbbc6cf841d674363c4eec5f7c95e91ae5fc14a7649cf90b556cc8/68747470733a2f2f7476746f6c6976652e636f6d2f77702d636f6e74656e742f75706c6f6164732f5649502d54562d7476746f6c6976652e636f6d5f2e6a7067" ,VIP Tv
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/vip.m3u8?alt=media&token=f5903a87-5435-456d-bc28-13982574855e
+
+
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,Perets Rus (576p)
+https://edge02-alm.beetv.kz/bpk-token/2an@ehrg1vjse0mxwj3jb1lvwcnwllzjuzonefc3mpba/btv/SWM/Perec/Perec.m3u8
 

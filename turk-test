@@ -126,6 +126,11 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" ,360 TV
 https://tv.ensonhaber.com/tv360/tv360.m3u8
 
+#EXTINF:-1 group-title="Haber" tvg-logo="" ,Sozcu
+https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
 
 
 

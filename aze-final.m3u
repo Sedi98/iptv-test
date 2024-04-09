@@ -1,99 +1,127 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Xeber" user-agent="ExoPlayer2/2.37" logo="https://camo.githubusercontent.com/39f85786c0285195ba70f34dc0bc22a975ba927f28590c74738ead115bc8529a/68747470733a2f2f692e696d6775722e636f6d2f6d7476494679712e706e67", ARB 24 (1080p)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o7/arb24/playlist.m3u8
 
-#EXTINF:-1 group-title="Umumi" user-agent="ExoPlayer2/2.37" logo="https://camo.githubusercontent.com/485dee75ce02196d3c6bcae0c7f29cadb52fc2425b5e74ea2a905075354996c4/68747470733a2f2f692e696d6775722e636f6d2f4539374d324f4c2e706e67", ARB (576p)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o1/arbtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Usaq" logo="https://camo.githubusercontent.com/3951c67fdfbd00b2cb2d6cbbe12ac59da18c616436ed225517e14ef3a66791ff/68747470733a2f2f692e696d6775722e636f6d2f645367374b554b2e706e67", ARB Gunes
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/arb-gunes.m3u8?alt=media&token=c6a1ea01-fbac-418d-a02c-1d883122e0b3
-
-#EXTINF:-1 group-title="Umumi" logo="https://camo.githubusercontent.com/04152b93cdd8ebf91dcb42643a2f7341a8d7c836fed90108c0ca06ce1a07086a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f4154565f253238323031322d682e682e2532392e706e672f34373470782d4154565f253238323031322d682e682e2532392e706e67", Azad Azerbaycan (576p)
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/atv-azad.m3u8?alt=media&token=af8cb89f-d9e2-43ce-aa21-44363fcfaf9a
-
-#EXTINF:-1 group-title="Umumi" logo="https://camo.githubusercontent.com/f343363a6ee93a080fa5b271b977583a90dfdf71943be8cecddb317296851d9c/68747470733a2f2f692e696d6775722e636f6d2f736e424d4d65482e706e67", Az TV (1080p)
-https://str.yodacdn.net/aztv/index.m3u8
-
-#EXTINF:-1 group-title="Umumi" logo="https://camo.githubusercontent.com/00e531f047c26af68ced97bc0eafe994543e5c9d5852a69fa6440cb09a4d9d71/68747470733a2f2f692e696d6775722e636f6d2f7756543064774f2e706e67", CBC Az
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/cbc.m3u8?alt=media&token=07c59eca-519a-48d1-a801-199cdbd24f3f
-
-#EXTINF:-1 group-title="Umumi" logo="https://camo.githubusercontent.com/afd61a495bdc62cc2558ab5da5ba1753237aa5f20ac1f89a6cbf98dd5b6a1d1f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f617a2f352f35642f442543332542436e79615f54565f253238323031392d682e682e2532392e706e67", Dunya TV
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/dunya-tv.m3u8?alt=media&token=4fdcd81e-0117-4a58-8bed-bdce7beb2603
-
-#EXTINF:-1 group-title="Umumi" user-agent="ExoPlayer2/2.37" logo="https://camo.githubusercontent.com/6e5f6bbc1d37bd74431e92b1d37a1982969d30bfe094eb2b1fd56a90d994e8ed/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66662f2543342542306374696d61695f54565f253238323032312d682e682e2532392e7376672f34373070782d2543342542306374696d61695f54565f253238323032312d682e682e2532392e7376672e706e67", Ictimai TV
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o1/ictimai/playlist.m3u8
-
-#EXTINF:-1 group-title="Shopping" logo="https://camo.githubusercontent.com/7a7dc06e3af969d7cba80823b4dd77da250f4a3ea3ff8c0d08ff5192783679cd/68747470733a2f2f7476746f6c6976652e636f6d2f77702d636f6e74656e742f75706c6f6164732f4d434a2d54562d53686f702d7476746f6c6976652e636f6d5f2e6a7067", Mcj TV
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/mcj-tv-shop.m3u8?alt=media&token=3e98e2d7-0ed8-4ec2-8171-0ba69294044f
-
-
-#EXTINF:-1 group-title="Umumi" user-agent="ExoPlayer2/2.37" logo="https://camo.githubusercontent.com/ad6aa9a228cecc30ff3ef23688e7f76d64ea5bbaa7b0a740ca6a47a4d7a18bf0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66632f4d254339253939642543392539396e697979254339253939745f54565f6c6f676f2e706e67", Medeniyyet TV
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
-
-#EXTINF:-1 group-title="Musiqi" logo="https://camo.githubusercontent.com/9c905c92231cc564b83218a489d9b9a178151a686c1b05f018d1930abbb94d13/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30302f4d54565f417a2543392539397262617963616e5f253238323032322532392e706e672f36323270782d4d54565f417a2543392539397262617963616e5f253238323032322532392e706e67", MTV Azerbaycan TV
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/mtv-azerbaycan.m3u8?alt=media&token=36f7fcce-e58c-432e-9f70-2c7fdaa32b3e
-
-#EXTINF:-1 group-title="Xeber" user-agent="ExoPlayer2/2.37" logo="https://camo.githubusercontent.com/e0d66e9f3ca023f201f4911b8cb0ca2d1344a589c7d4f2954c0397ef7c729837/68747470733a2f2f692e696d6775722e636f6d2f65324b464c30522e706e67", Real TV (1080p)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o2/realtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Umumi" user-agent="ExoPlayer2/2.37" logo="https://camo.githubusercontent.com/071b85de679d964de6b622d63a3b3765ade1ce46453807ba96d7a8b7c08e35ea/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32342f53706163655f54565f6c6f716f73755f253238323032332d682e682e2532392e706e672f32393670782d53706163655f54565f6c6f716f73755f253238323032332d682e682e2532392e706e67", Space TV
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o1/space/playlist.m3u8
-
-#EXTINF:-1 group-title="Musiqi" logo="https://camo.githubusercontent.com/a218ed7751f4d47d15147399ba4bef5b8bd28c6f8d31156b3b57309fb55cc278/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f617a2f632f63322f544d425f54565f6c6f716f73752e706e67", TMB Azerbaycan
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/tmb-azerbaycan.m3u8?alt=media&token=62f569d6-7cac-40c6-a1e3-89aea803d82e
-
-#EXTINF:-1 group-title="Umumi" logo="https://camo.githubusercontent.com/a468a8be71f96b3766daf5ed7f88c246e414afd140185ec1f5b8937e165dc75f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61352f582543392539397a254339253939725f54565f253238323032332532392e706e67", Xezer TV
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/xezer-tv.m3u8?alt=media&token=10c0bf2f-ab3a-422a-9e3b-3930131611d1
-
-#EXTINF:-1 group-title="Umumi" logo="https://camo.githubusercontent.com/3a9595e17021e75181838c68fb2355c4d494500c28c114907961b3646ef7f051/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33622f42616b755f54565f253238323031382532392e706e672f36343070782d42616b755f54565f253238323031382532392e706e67" ,Baku TV (1080p)
-https://rtmp.baku.tv/live/bakutv_1080p.m3u8
-
-#EXTINF:-1 group-title="Xeber" logo="https://i.imgur.com/2CSW4V4.png" ,Apa TV (720p)
-http://rtmp.apa.tv/@pagroup!23.m3u8
-
-#EXTINF:-1 group-title="Idman" user-agent="ExoPlayer2/2.37" logo="https://i.imgur.com/fM9FOrZ.png" ,Idman TV (720p)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o7/idman/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,kanals test 2 TV
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/kanalstv.m3u8?alt=media&token=688872c1-dae1-4251-8c7c-f53f71b7be2f
-
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,mtv test2
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/mtvazerbaycan.m3u8?alt=media&token=ee091ce6-c40e-4027-9766-1c59b6c415e6
-
-#EXTINF:-1 group-title="test" logo="https://camo.githubusercontent.com/b95cfd6dafdbbc6cf841d674363c4eec5f7c95e91ae5fc14a7649cf90b556cc8/68747470733a2f2f7476746f6c6976652e636f6d2f77702d636f6e74656e742f75706c6f6164732f5649502d54562d7476746f6c6976652e636f6d5f2e6a7067" ,VIP Tv
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/vip.m3u8?alt=media&token=f5903a87-5435-456d-bc28-13982574855e
-
-
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt1
+#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt haber
+#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" ,TRT haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt muzik
+#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" ,TRT muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt cocuk
+#EXTINF:-1 group-title="test" tvg-logo="" ,TRT cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt avaz
+#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png" ,TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt belgesel
+#EXTINF:-1 group-title="test" tvg-logo="" ,TRT belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,star tv test
+#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" ,Star tv
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=6b1hh777ciuu&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+
+
+
+#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,TV 8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6b1k0q50h11y&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,ATV Turkiye
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1712722795&st=5k6rBBQCkXVowEVPoomojw&sid=6b1k673tqld5&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Kanal 7
+https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=6b1kbmgrsx7d&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Kanal 7 Avrupa
+https://live-b.cf.dmcdn.net/sec2(3xv8Gb20yuNsb_ZyFMYFodtjnGqXst1oxTfSKevw-rUMP4uGl5e586bBR_ZiJPOSZCQtYCPVp18OyZE2U_HJzMnctFhm0C0BT7k68AIhtrg)/dm/3/x8863vn/s/live-1.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Show TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=6b1klctqtrpc&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,CNN Turk tv
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,A Haber
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=g1d8zmaHdWbEDgWQwjnJ_A&e=1712723258&SessionID=m03acxrpldpggrhhevs1zvpm&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,ATV 2
+https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1712724332&st=MVxxB-ydC89xB9kq9Q2S4Q&sid=6b1mgh28ey4w&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Kanal D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=6b1mlts3o2rg&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Dream Turk
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk
+
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Minika Cocuk
+https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk_720p.m3u8?e=1712724643&st=eBuupC_SharPaQOCG2elCA&sid=6b1mx3gnuas2&app=8e9e79c3-44e3-4a41-a921-1d8f0e7887c0&ce=3
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Halk TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=6b1n0r4flqrx&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Ntv Turkiye
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=L20zMW5jcmJKMmVRVE9UNkhDWEl3eWpDSE8yd0Q3OE5aMVNONzZHM2tNST0=&sid=6b1nbhyveuyf&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=3
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Kral Pop TV
+https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?token=VUFzQ2dvK3JHQzYvOHlGcHg3djlQT1ZaSEc1bWZvWHVycUgxcnZDTWxsdz0=&sid=6b1ngqfn46c2&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Show Max tv
+https://ciner-live.ercdn.net/showmax/showmax_576p.m3u8?e=1712687031&st=sBkA8EFj4YQ4fTbSc8BNYw&tv=1
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=6b1nueveg4ou&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+
+#EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Habertürk TV
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Atv Avrupa
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=AWwEqQvP-dSNIjANAJuqow&e=1712725940&SessionID=g4awmi2rmh33shpgq4gztqkx&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,Now tv
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1712734854&st=9dCiBmfD6crjpKcz1-AkXQ
+

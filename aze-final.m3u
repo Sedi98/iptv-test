@@ -95,3 +95,5 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,star tv test
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=6b1hh777ciuu&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3

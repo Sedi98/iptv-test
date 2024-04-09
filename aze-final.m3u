@@ -75,13 +75,23 @@ https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/mtv
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/vip.m3u8?alt=media&token=f5903a87-5435-456d-bc28-13982574855e
 
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt1 (720p)
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt haber (720p)
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt muzik (720p)
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,trt belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 

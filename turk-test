@@ -40,7 +40,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=6b1kbmgrsx7d&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" ,Kanal 7 Avrupa
-https://live-b.cf.dmcdn.net/sec2(aLHECd6z8TS_CvgrnU6gs-wt1Y1Zc05yhxImOltItLz2XVb-QcQIsdFZ7eycUudYkHFxrDcQ8BCnw48e2k_FY4_JERj1VzTfgIeXHv_Ani8)/dm/3/x8863vn/s/live-1.m3u8#cell=lcfb
+http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" ,Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
@@ -150,6 +150,32 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" ,Tivibu Spor
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 
+#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="" ,360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
 
 
 

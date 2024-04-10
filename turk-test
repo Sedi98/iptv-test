@@ -9,7 +9,7 @@ http://hw1.jemtv.com/app/trt2/chunks.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" ,TRT haber (AR)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Muzik" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" ,TRT muzik (AR)
+#EXTINF:-1 group-title="Muzik" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" ,TRT Muzik (AR)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="Cocuk" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" ,TRT Cocuk (AR)
@@ -21,6 +21,12 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" ,TRT Belgesel (AR)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" ,TRT SPOR Yildiz (AR)
+http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" ,TRT SPOR (HD)
+https://trt.daioncdn.net/trtspor/master_720p.m3u8?app=web
+
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" ,Star tv (HD)
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
@@ -29,9 +35,6 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" ,TV 8 (FHD)
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" ,TV 8.5 (FHD)
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" ,Kanal 7 (FHD)
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=6b1kbmgrsx7d&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
@@ -45,10 +48,8 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" ,Show Turk (HD)
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 group-title="Dizi" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" ,Show MAX (SD)
-http://ciner-live.ercdn.net/showmax/showmax_576p.m3u8?e=1712765137&st=bzn9B7rPn3pWk9iPHfourQ&tv=1
 
-#EXTINF:-1 group-title="Haber" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" ,CNN Turk tv
+#EXTINF:-1 group-title="Haber" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" ,CNN Turk TV
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" ,ATV 
@@ -60,7 +61,7 @@ https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" ,A Haber 
 http://hw1.jemtv.com/app/AHaber/chunks.m3u8
 
-#EXTINF:-1 group-title="Dizi" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" ,A2 HD 
+#EXTINF:-1 group-title="Dizi" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc" ,A2 HD 
 http://hw1.jemtv.com/app/a2hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" ,Kanal D (FHD)
@@ -102,11 +103,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" ,TV 100 (AR)
 https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
 
-#EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" ,TRT SPOR Yildiz (AR)
-http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" ,TRT SPOR (HD)
-https://trt.daioncdn.net/trtspor/master_720p.m3u8?app=web
 
 #EXTINF:-1 group-title="Haber" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" ,Akit Tv (AR)
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
@@ -144,6 +141,14 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" ,Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
+#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" ,DHA CANLI 1
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" ,DHA CANLI 2
+https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
+
+#EXTINF:-1 group-title="test" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" ,Tivibu Spor
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 
 
 

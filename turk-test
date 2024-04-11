@@ -1,149 +1,148 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrt1.png?alt=media&token=9cbb2ecd-4af5-4a4d-aa68-b55ab651632c" ,TRT 1 (AR)
+#EXTINF:-1 tvg-name="TRT1.tr" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrt1.png?alt=media&token=9cbb2ecd-4af5-4a4d-aa68-b55ab651632c" ,TRT 1 (AR)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrt2.png?alt=media&token=2c5c1550-1d6d-4756-995d-ad02db857574" ,TRT 2 (AR)
+#EXTINF:-1 tvg-name="TRT2.tr" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrt2.png?alt=media&token=2c5c1550-1d6d-4756-995d-ad02db857574" ,TRT 2 (AR)
 http://hw1.jemtv.com/app/trt2/chunks.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrthaber.png?alt=media&token=9ff194ee-5da6-4484-a4a9-d18a9346780e" ,TRT haber (AR)
+#EXTINF:-1 tvg-name="TRTHaber.tr" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrthaber.png?alt=media&token=9ff194ee-5da6-4484-a4a9-d18a9346780e" ,TRT haber (AR)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Muzik" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtmuzik.png?alt=media&token=9e5dc304-2dae-4fa0-819d-9a667cddbd0b" ,TRT Muzik (AR)
+#EXTINF:-1 tvg-name="TRTMuzik.tr" group-title="Muzik" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtmuzik.png?alt=media&token=9e5dc304-2dae-4fa0-819d-9a667cddbd0b" ,TRT Muzik (AR)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Cocuk" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtcocuk.png?alt=media&token=cbca28c5-4379-4a43-9d33-07a0f882df59" ,TRT Cocuk (AR)
+#EXTINF:-1 tvg-name="TRTCocuk.tr" group-title="Cocuk" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtcocuk.png?alt=media&token=cbca28c5-4379-4a43-9d33-07a0f882df59" ,TRT Cocuk (AR)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtavaz.png?alt=media&token=8f90c460-18ac-4daa-85ec-bb9cd46db254" ,TRT Avaz (AR)
+#EXTINF:-1 tvg-name="TRTAvaz.tr" group-title="Belgesel" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtavaz.png?alt=media&token=8f90c460-18ac-4daa-85ec-bb9cd46db254" ,TRT Avaz (AR)
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtbelgesel.png?alt=media&token=00539188-dd32-4a5b-bf70-12b093d5faae" ,TRT Belgesel (AR)
+#EXTINF:-1 tvg-name="TRTBelgesel.tr" group-title="Belgesel" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtbelgesel.png?alt=media&token=00539188-dd32-4a5b-bf70-12b093d5faae" ,TRT Belgesel (AR)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtsporyildiz.png?alt=media&token=d24ce907-ca0a-4d4c-b421-ff55251121bc" ,TRT SPOR Yildiz (AR)
+#EXTINF:-1 tvg-name="" group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtsporyildiz.png?alt=media&token=d24ce907-ca0a-4d4c-b421-ff55251121bc" ,TRT SPOR Yildiz (AR)
 http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtspor.png?alt=media&token=9ce85481-b957-47ee-98a0-e084979e8df3" ,TRT SPOR (HD)
+#EXTINF:-1 tvg-name="" group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtspor.png?alt=media&token=9ce85481-b957-47ee-98a0-e084979e8df3" ,TRT SPOR (HD)
 https://trt.daioncdn.net/trtspor/master_720p.m3u8?app=web
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fstar.png?alt=media&token=04bef445-4932-4697-85d4-c27bd5a0a2d1" ,Star TV (HD)
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fstar.png?alt=media&token=04bef445-4932-4697-85d4-c27bd5a0a2d1" ,Star TV (HD)
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fnovv.png?alt=media&token=08c396b3-f769-45e6-8e99-a4d6e6dba49e" ,NOW TV
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fnovv.png?alt=media&token=08c396b3-f769-45e6-8e99-a4d6e6dba49e" ,NOW TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftv8.png?alt=media&token=04e2c1c5-8af5-489e-9e36-29f69dd586da" ,TV 8 (FHD)
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftv8.png?alt=media&token=04e2c1c5-8af5-489e-9e36-29f69dd586da" ,TV 8 (FHD)
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkanal7.png?alt=media&token=461cc855-fc48-4427-9a3e-406e2bcee6c4" ,Kanal 7 (FHD)
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkanal7.png?alt=media&token=461cc855-fc48-4427-9a3e-406e2bcee6c4" ,Kanal 7 (FHD)
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=6b1kbmgrsx7d&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fshow.png?alt=media&token=77234e87-8ef5-4881-ba9c-a3c93277ab2c" ,Show TV
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fshow.png?alt=media&token=77234e87-8ef5-4881-ba9c-a3c93277ab2c" ,Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fshowturk.png?alt=media&token=2df80fa6-824d-4c55-aca5-ee0b576c31ad" ,Show Turk (HD)
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fshowturk.png?alt=media&token=2df80fa6-824d-4c55-aca5-ee0b576c31ad" ,Show Turk (HD)
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fcnnturk.png?alt=media&token=edac718b-dbf1-4767-a209-85c159170823" ,CNN Turk TV
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fcnnturk.png?alt=media&token=edac718b-dbf1-4767-a209-85c159170823" ,CNN Turk TV
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fatv.png?alt=media&token=96c9ceba-8088-40ad-8771-ad67aa30cd9c" ,ATV 
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fatv.png?alt=media&token=96c9ceba-8088-40ad-8771-ad67aa30cd9c" ,ATV 
 http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Faspor.png?alt=media&token=ebadd080-2cfd-47bc-8bc3-5ec81cfa9d80" ,A Spor
+#EXTINF:-1 tvg-name="" group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Faspor.png?alt=media&token=ebadd080-2cfd-47bc-8bc3-5ec81cfa9d80" ,A Spor
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fahaber.png?alt=media&token=54fc932b-9e93-4bdb-8a58-d8a07df7399b" ,A Haber 
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fahaber.png?alt=media&token=54fc932b-9e93-4bdb-8a58-d8a07df7399b" ,A Haber 
 http://hw1.jemtv.com/app/AHaber/chunks.m3u8
 
-#EXTINF:-1 group-title="Dizi" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fa2hd.png?alt=media&token=e05d4c3a-fbea-4593-bc8c-b4b42c19452d" ,A2 HD 
+#EXTINF:-1 tvg-name="" group-title="Dizi" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fa2hd.png?alt=media&token=e05d4c3a-fbea-4593-bc8c-b4b42c19452d" ,A2 HD 
 http://hw1.jemtv.com/app/a2hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkanald.png?alt=media&token=195c37a2-900b-4f12-afc8-9eebc904db53" ,Kanal D (FHD)
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkanald.png?alt=media&token=195c37a2-900b-4f12-afc8-9eebc904db53" ,Kanal D (FHD)
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkanald.png?alt=media&token=195c37a2-900b-4f12-afc8-9eebc904db53" ,Euro D
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkanald.png?alt=media&token=195c37a2-900b-4f12-afc8-9eebc904db53" ,Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1 group-title="Dizi" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkanald.png?alt=media&token=195c37a2-900b-4f12-afc8-9eebc904db53" ,Kanal D Drama
+#EXTINF:-1 tvg-name="" group-title="Dizi" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkanald.png?alt=media&token=195c37a2-900b-4f12-afc8-9eebc904db53" ,Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 group-title="Muzik" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fdreamtrk.png?alt=media&token=f6e9b82b-b4bd-4e79-818c-fc5a1bd759e4" ,Dream Turk
+#EXTINF:-1 tvg-name="" group-title="Muzik" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fdreamtrk.png?alt=media&token=f6e9b82b-b4bd-4e79-818c-fc5a1bd759e4" ,Dream Turk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fhalktv.png?alt=media&token=66860cd7-6a34-46f9-841a-cce63548915e" ,Halk TV (FHD)
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fhalktv.png?alt=media&token=66860cd7-6a34-46f9-841a-cce63548915e" ,Halk TV (FHD)
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=2
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fntv.png?alt=media&token=55620535-9092-4535-bf12-e62a0290f1a6" ,NTV (HD)
+#EXTINF:-1 tvg-name="" group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fntv.png?alt=media&token=55620535-9092-4535-bf12-e62a0290f1a6" ,NTV (HD)
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
 
-#EXTINF:-1 group-title="Muzik" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkralpop.png?alt=media&token=2c6a71cc-6882-4644-8db4-bc5389867ffe" ,Kral Pop TV
+#EXTINF:-1 tvg-name="" group-title="Muzik" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkralpop.png?alt=media&token=2c6a71cc-6882-4644-8db4-bc5389867ffe" ,Kral Pop TV
 https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128&token=QkhhYTBYODlvY0hjSXZOTTFuMTJkeGJXYVVTK1FFemVLMDJJK0ZXckIvaz0=
 
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftgrtbelgesel.png?alt=media&token=4eb8d236-fd42-490c-866e-f6d1adf4ff01" ,TGRT Belgesel
+#EXTINF:-1 tvg-name="" group-title="Belgesel" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftgrtbelgesel.png?alt=media&token=4eb8d236-fd42-490c-866e-f6d1adf4ff01" ,TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel_576p.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftgrteu.png?alt=media&token=4f3b7b47-70a3-4107-850e-64d49164f7e8" ,TGRT EU (SD)
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftgrteu.png?alt=media&token=4f3b7b47-70a3-4107-850e-64d49164f7e8" ,TGRT EU (SD)
 https://tgrt-live.ercdn.net/tgrteu/tgrteu_576p.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftgrthaber.png?alt=media&token=95763ac7-905d-4f56-af8c-53d078455a3f" ,TGRT Haber
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftgrthaber.png?alt=media&token=95763ac7-905d-4f56-af8c-53d078455a3f" ,TGRT Haber
 https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber.m3u8?app=web
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftv24.png?alt=media&token=6dc4a6c0-fa49-40e7-9eb9-5e57c83fa36c" ,TV 24 (AR)
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftv24.png?alt=media&token=6dc4a6c0-fa49-40e7-9eb9-5e57c83fa36c" ,TV 24 (AR)
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fulketv.png?alt=media&token=7f4a11ae-af8a-4626-9024-e53e1d4fc0bf" ,Ulke TV (HD)
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fulketv.png?alt=media&token=7f4a11ae-af8a-4626-9024-e53e1d4fc0bf" ,Ulke TV (HD)
 https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fbeyaztv.png?alt=media&token=d0145b0c-1140-4711-a786-d130ca35eae6" ,Beyaz TV (FHD)
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fbeyaztv.png?alt=media&token=d0145b0c-1140-4711-a786-d130ca35eae6" ,Beyaz TV (FHD)
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftv100.png?alt=media&token=3c7069d4-65de-4133-ad74-3946fa248b15" ,TV 100 (AR)
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftv100.png?alt=media&token=3c7069d4-65de-4133-ad74-3946fa248b15" ,TV 100 (AR)
 https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
 
-#EXTINF:-1 group-title="Haber" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" ,Akit Tv (AR)
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" ,Akit Tv (AR)
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fhaberglobal.png?alt=media&token=3f854c67-1a4e-4b6d-a636-4e8f18fe229b" ,Haber Global (AR)
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fhaberglobal.png?alt=media&token=3f854c67-1a4e-4b6d-a636-4e8f18fe229b" ,Haber Global (AR)
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fhaberturk.png?alt=media&token=87fe4d71-82e1-49c1-a37b-05a0df2e63be" ,Haber Turk (FHD)
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fhaberturk.png?alt=media&token=87fe4d71-82e1-49c1-a37b-05a0df2e63be" ,Haber Turk (FHD)
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkanal3.png?alt=media&token=cd9bd225-c386-46cd-aaf4-4181bbe0e0cb" ,Kanal 3 TV
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fkanal3.png?alt=media&token=cd9bd225-c386-46cd-aaf4-4181bbe0e0cb" ,Kanal 3 TV
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fbenguturk.png?alt=media&token=982130e4-0da3-494d-ac7d-20e0c36d296d" ,BenguTurk
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fbenguturk.png?alt=media&token=982130e4-0da3-494d-ac7d-20e0c36d296d" ,BenguTurk
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2F360tv.png?alt=media&token=bc8cfc3a-b5ec-46dc-9c80-d269e92deca5" ,360 TV
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2F360tv.png?alt=media&token=bc8cfc3a-b5ec-46dc-9c80-d269e92deca5" ,360 TV
 https://tv.ensonhaber.com/tv360/tv360.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fsozcu.png?alt=media&token=fb215f5f-c300-4638-b619-78912f1d855e" ,Sozcu TV (HD)
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fsozcu.png?alt=media&token=fb215f5f-c300-4638-b619-78912f1d855e" ,Sozcu TV (HD)
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftvnet.png?alt=media&token=13bff6f3-1db6-4125-9a8a-c58fbf95d412" ,TVNET
+#EXTINF:-1 tvg-name="" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftvnet.png?alt=media&token=13bff6f3-1db6-4125-9a8a-c58fbf95d412" ,TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
-#EXTINF:-1 group-title="Muzik" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fpowertrk.png?alt=media&token=5eccbb2b-9a65-41f9-a684-7354e2812388" ,Power Turk
+#EXTINF:-1 tvg-name="" group-title="Muzik" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fpowertrk.png?alt=media&token=5eccbb2b-9a65-41f9-a684-7354e2812388" ,Power Turk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
 
-#EXTINF:-1 group-title="Muzik" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fpowertv.png?alt=media&token=40e5f812-05b8-4379-8609-60263a8a3c65" ,Power TV
+#EXTINF:-1 tvg-name="" group-title="Muzik" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fpowertv.png?alt=media&token=40e5f812-05b8-4379-8609-60263a8a3c65" ,Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
 
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fteve2.png?alt=media&token=dd9918c9-ecd3-4a19-b49f-8cc8a3c15d87" ,Teve 2
+#EXTINF:-1 tvg-name="" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fteve2.png?alt=media&token=dd9918c9-ecd3-4a19-b49f-8cc8a3c15d87" ,Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fsportstv.png?alt=media&token=f1dd9af8-9cc9-4bf3-aa91-fda1f04bfced" ,Sports TV
+#EXTINF:-1 tvg-name="" group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fsportstv.png?alt=media&token=f1dd9af8-9cc9-4bf3-aa91-fda1f04bfced" ,Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
-#EXTINF:-1 group-title="test" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fdhatv.png?alt=media&token=fbbacd1c-b179-4e53-bddf-65b97ed37d9a" ,DHA CANLI 1
+#EXTINF:-1 tvg-name="" group-title="test" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fdhatv.png?alt=media&token=fbbacd1c-b179-4e53-bddf-65b97ed37d9a" ,DHA CANLI 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
 
-#EXTINF:-1 group-title="test" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fdhatv.png?alt=media&token=fbbacd1c-b179-4e53-bddf-65b97ed37d9a" ,DHA CANLI 2
+#EXTINF:-1 tvg-name="" group-title="test" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fdhatv.png?alt=media&token=fbbacd1c-b179-4e53-bddf-65b97ed37d9a" ,DHA CANLI 2
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
-
 
 
 

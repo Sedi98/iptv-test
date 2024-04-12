@@ -12,7 +12,7 @@ https://edge02.odtv.az/o1/arbtv/playlist.m3u8
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/arb-gunes.m3u8?alt=media&token=c6a1ea01-fbac-418d-a02c-1d883122e0b3
 
 #EXTINF:-1 group-title="Umumi" logo="https://camo.githubusercontent.com/04152b93cdd8ebf91dcb42643a2f7341a8d7c836fed90108c0ca06ce1a07086a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f4154565f253238323031322d682e682e2532392e706e672f34373470782d4154565f253238323031322d682e682e2532392e706e67", Azad Azerbaycan (576p)
-https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/atv-azad.m3u8?alt=media&token=af8cb89f-d9e2-43ce-aa21-44363fcfaf9a
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
 #EXTINF:-1 group-title="Umumi" logo="https://camo.githubusercontent.com/f343363a6ee93a080fa5b271b977583a90dfdf71943be8cecddb317296851d9c/68747470733a2f2f692e696d6775722e636f6d2f736e424d4d65482e706e67", Az TV
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/az-tv.m3u8?alt=media&token=2b19bc9e-efc3-4466-aefa-a564f0a44f00
@@ -68,6 +68,4 @@ https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/kan
 https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/vip.m3u8?alt=media&token=f5903a87-5435-456d-bc28-13982574855e
 
 
-#EXTINF:-1 group-title="test" logo="https://i.imgur.com/2CSW4V4.png" ,Perets Rus (576p)
-https://edge02-alm.beetv.kz/bpk-token/2an@ehrg1vjse0mxwj3jb1lvwcnwllzjuzonefc3mpba/btv/SWM/Perec/Perec.m3u8
 

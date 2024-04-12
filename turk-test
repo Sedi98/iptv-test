@@ -3,8 +3,15 @@
 #EXTINF:-1 tvg-name="TRT1.tr" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrt1.png?alt=media&token=9cbb2ecd-4af5-4a4d-aa68-b55ab651632c" ,TRT 1 (AR)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-name="TRT1.tr" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrt1.png?alt=media&token=9cbb2ecd-4af5-4a4d-aa68-b55ab651632c" ,TRT 1 (test) (AR)
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+
 #EXTINF:-1 tvg-name="TRT2.tr" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrt2.png?alt=media&token=2c5c1550-1d6d-4756-995d-ad02db857574" ,TRT 2 (AR)
 http://hw1.jemtv.com/app/trt2/chunks.m3u8
+
+
+#EXTINF:-1 tvg-name="TRTTurk.tr" group-title="Ulusal" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrt1.png?alt=media&token=9cbb2ecd-4af5-4a4d-aa68-b55ab651632c" ,TRT Turk (AR)
+https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
 
 #EXTINF:-1 tvg-name="TRTHaber.tr" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrthaber.png?alt=media&token=9ff194ee-5da6-4484-a4a9-d18a9346780e" ,TRT haber (AR)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
@@ -23,6 +30,9 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="" group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtsporyildiz.png?alt=media&token=d24ce907-ca0a-4d4c-b421-ff55251121bc" ,TRT SPOR Yildiz (AR)
 http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
+
+#EXTINF:-1 tvg-name="" group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtsporyildiz.png?alt=media&token=d24ce907-ca0a-4d4c-b421-ff55251121bc" ,TRT SPOR Test (AR)
+https://trtspor.blutv.com/blutv_trtspor2/live.m3u8
 
 #EXTINF:-1 tvg-name="" group-title="Spor" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftrtspor.png?alt=media&token=9ce85481-b957-47ee-98a0-e084979e8df3" ,TRT SPOR (HD)
 https://trt.daioncdn.net/trtspor/master_720p.m3u8?app=web
@@ -143,6 +153,7 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="" group-title="test" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Fdhatv.png?alt=media&token=fbbacd1c-b179-4e53-bddf-65b97ed37d9a" ,DHA CANLI 2
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
+
 
 
 

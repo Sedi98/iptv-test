@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U http://epg.tvcdn.net/guide/tr-guide.xml
 #EXTINF:-1 tvg-name="24TV.tr" group-title="Haber" tvg-logo="https://firebasestorage.googleapis.com/v0/b/photo-saving-fd095.appspot.com/o/images-tr%2Ftv24.png?alt=media&token=6dc4a6c0-fa49-40e7-9eb9-5e57c83fa36c" ,TV 24 (AR)
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
@@ -191,8 +191,7 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
 #EXTINF:-1 tvg-name="" group-title="test" tvg-logo="" ,360 TV
 https://tv.ensonhaber.com/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-name="" group-title="test" tvg-logo="" ,360 TV
-https://tv.ensonhaber.com/tv360/tv360.m3u8
+
 
 
 

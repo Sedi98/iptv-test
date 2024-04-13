@@ -27,7 +27,7 @@ https://edge02.odtv.az/o1/cbc/playlist.m3u8
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 
 #EXTINF:-1 group-title="Umumi" logo="https://camo.githubusercontent.com/00e531f047c26af68ced97bc0eafe994543e5c9d5852a69fa6440cb09a4d9d71/68747470733a2f2f692e696d6775722e636f6d2f7756543064774f2e706e67", CBC Sport odtv
-https://edge02.odtv.az/o1/cbcsport/playlist.m3u8
+https://edge02.odtv.az/o2/cbcsport/playlist.m3u8
 
 #EXTINF:-1 group-title="Umumi" user-agent="ExoPlayer2/2.37" logo="https://camo.githubusercontent.com/6e5f6bbc1d37bd74431e92b1d37a1982969d30bfe094eb2b1fd56a90d994e8ed/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66662f2543342542306374696d61695f54565f253238323032312d682e682e2532392e7376672f34373070782d2543342542306374696d61695f54565f253238323032312d682e682e2532392e7376672e706e67", Ictimai TV
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
